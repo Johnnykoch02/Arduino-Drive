@@ -16,7 +16,6 @@ updateDrive	KEYWORD2
 set_drive_motors	KEYWORD2
 change_in_encoder	KEYWORD2
 setDrive	KEYWORD2
-
 ###########################################
 # Constants (LITERAL1)
 ###########################################
